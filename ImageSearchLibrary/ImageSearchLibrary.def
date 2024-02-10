@@ -1,0 +1,7 @@
+LIBRARY	"ImageSearchLibrary"
+
+EXPORTS
+
+	FindImage
+	FindImageEX
+	
